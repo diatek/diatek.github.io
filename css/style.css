@@ -412,14 +412,16 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 
-.gtco-staff {
+.gtco-staff,
+.gtco-product {
   text-align: center;
   margin-bottom: 7em;
   float: left;
   width: 100%;
 }
 @media screen and (max-width: 768px) {
-  .gtco-staff {
+  .gtco-staff,
+  .gtco-product {
     margin-bottom: 3em;
   }
 }
@@ -431,16 +433,32 @@ h1, h2, h3, h4, h5, h6, figure {
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
-.gtco-staff h3 {
+.gtco-product img {
+  width: 230px;
+  margin-bottom: 20px;
+}
+#product-images img {
+  width: 450px;
+}
+.gtco-staff h3,
+.gtco-product h3 {
   font-size: 24px;
   margin-bottom: 5px;
 }
-.gtco-staff p {
+.gtco-staff p,
+.gtco-product p {
   margin-bottom: 30px;
 }
 .gtco-staff .role {
   color: #bfbfbf;
   margin-bottom: 30px;
+  font-weight: normal;
+  display: block;
+}
+
+.gtco-product .role {
+  color: #bfbfbf;
+  margin-bottom: 10px;
   font-weight: normal;
   display: block;
 }
