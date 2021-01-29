@@ -411,13 +411,23 @@ h1, h2, h3, h4, h5, h6, figure {
     height: inherit !important;
   }
 }
-
+#categories li,
+#categories li a {
+  color: #777;
+}
+#categories li.active,
+#categories li.active a {
+  color: #000;
+}
 .gtco-staff,
 .gtco-product {
   text-align: center;
   margin-bottom: 7em;
   float: left;
   width: 100%;
+}
+.gtco-product {
+  height: 200px;
 }
 @media screen and (max-width: 768px) {
   .gtco-staff,
@@ -434,11 +444,18 @@ h1, h2, h3, h4, h5, h6, figure {
   border-radius: 50%;
 }
 .gtco-product img {
-  width: 230px;
+  width: 150px;
   margin-bottom: 20px;
 }
 #product-images img {
   width: 450px;
+}
+#product-description h4 {
+  font-size: 25px;
+  font-weight: bold;
+}
+#product-description h5 {
+  font-size: 20px;
 }
 .gtco-staff h3,
 .gtco-product h3 {
