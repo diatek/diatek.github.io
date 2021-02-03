@@ -2,9 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0936d4f-666f-47d4-a1eb-cce44433b2f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location.html" beforeDir="false" afterPath="$PROJECT_DIR$/location.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vente.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/air-comprime.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/air-comprime.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/air-comprime/accessoires-pneumatiques.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/air-comprime/accessoires-pneumatiques.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/air-comprime/compresseur.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/air-comprime/compresseur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/c-s-p/carotteuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/carotteuse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/c-s-p/decoupeuse-electrique.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/decoupeuse-electrique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/c-s-p/decoupeuse-thermique.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/decoupeuse-thermique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/c-s-p/ponceuse-rabotteuse-aspirateur-electrique.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/ponceuse-rabotteuse-aspirateur-electrique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/c-s-p/scie-a-sol.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/scie-a-sol.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/c-s-p/scie-sur-table.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/scie-sur-table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/c-s-p/tronconneuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/tronconneuse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/carottage-sciage-poncage.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/carottage-sciage-poncage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/compactage.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/compactage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/compactage/pied-de-mouton.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/compactage/pied-de-mouton.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/compactage/pilonneuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/compactage/pilonneuse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/compactage/plaque-vibrante.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/compactage/plaque-vibrante.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/compactage/rouleau-vibrant.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/compactage/rouleau-vibrant.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/demolition.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/demolition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/demolition/marteau-piqueur.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/demolition/marteau-piqueur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/espace-vert.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/espace-vert.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/espace-vert/broyeur-thermique.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/espace-vert/broyeur-thermique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/espace-vert/souffleur.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/espace-vert/souffleur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/espace-vert/taille-haie.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/espace-vert/taille-haie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/feux-tricolores.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/feux-tricolores.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/feux-tricolores/feux-tts.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/feux-tricolores/feux-tts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/groupe-electrogene.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/groupe-electrogene.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/groupe-electrogene/groupe-pramac.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/groupe-electrogene/groupe-pramac.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/groupe-electrogene/groupe-worms.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/groupe-electrogene/groupe-worms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/pompage.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/pompage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/pompage/pompe-a-cable.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/pompage/pompe-a-cable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/pompage/pompe-electrique.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/pompage/pompe-electrique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/stockage-eau.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/stockage-eau.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/stockage-eau/cuve.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/stockage-eau/cuve.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/stockage-eau/remorque-citerne.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/stockage-eau/remorque-citerne.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/vibration.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/vibration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/vibration/aiguille-vibrante.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/vibration/aiguille-vibrante.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/vibration/convertisseur.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/vibration/convertisseur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/vibration/regle-vibrante.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/vibration/regle-vibrante.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/vibration/truelle-mecanique.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/vibration/truelle-mecanique.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +63,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7" />
   <component name="ProjectId" id="1gBIVlWspSZQnCmkO5kO4Iv8zI7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,13 +73,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/produits" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/location/electroportatif/fiches" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/location/electroportatif/fiches" />
+      <recent name="$PROJECT_DIR$/location/electroportatif/images" />
       <recent name="$PROJECT_DIR$/images/produits" />
     </key>
   </component>
@@ -52,19 +97,11 @@
       <updated>1597581584794</updated>
       <workItem from="1597581586051" duration="3026000" />
       <workItem from="1597648642753" duration="20000" />
+      <workItem from="1612369620976" duration="5085000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="652" y="263" width="616" height="554" key="find.popup" timestamp="1597589298732">
-      <screen x="0" y="24" width="1920" height="1032" />
-    </state>
-    <state x="652" y="263" width="616" height="554" key="find.popup/0.24.1920.1032@0.24.1920.1032" timestamp="1597589298732" />
   </component>
 </project>

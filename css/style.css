@@ -419,6 +419,9 @@ h1, h2, h3, h4, h5, h6, figure {
 #categories li.active a {
   color: #000;
 }
+#products p {
+  text-align: center;
+}
 .gtco-staff,
 .gtco-product {
   text-align: center;
@@ -428,6 +431,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .gtco-product {
   height: 200px;
+  margin-bottom: 3em;
 }
 @media screen and (max-width: 768px) {
   .gtco-staff,
