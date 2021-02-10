@@ -3,54 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="b0936d4f-666f-47d4-a1eb-cce44433b2f8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location.html" beforeDir="false" afterPath="$PROJECT_DIR$/location.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/air-comprime.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/air-comprime.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/air-comprime/accessoires-pneumatiques.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/air-comprime/accessoires-pneumatiques.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/air-comprime/compresseur.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/air-comprime/compresseur.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/air-comprime/images/accessoires-pneumatiques.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/air-comprime/images/accessoires-pneumatiques.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/air-comprime/images/compresseur.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/air-comprime/images/compresseur.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/c-s-p/carotteuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/carotteuse.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/c-s-p/decoupeuse-electrique.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/decoupeuse-electrique.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/c-s-p/decoupeuse-thermique.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/decoupeuse-thermique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/c-s-p/fiches/tronconneuse-bois-stihl-ms441.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/location/espace-vert/fiches/tronconneuse-bois-stihl-ms441.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/c-s-p/images/carotteuse.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/images/carotteuse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/c-s-p/images/decoupeuse-electrique.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/images/decoupeuse-electrique.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/c-s-p/images/decoupeuse-thermique.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/images/decoupeuse-thermique.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/c-s-p/images/ponceuse.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/images/ponceuse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/c-s-p/images/scie-a-sol.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/images/scie-a-sol.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/c-s-p/images/scie-sur-table.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/images/scie-sur-table.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/c-s-p/images/tronconneuse.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/images/tronconneuse.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/c-s-p/ponceuse-rabotteuse-aspirateur-electrique.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/ponceuse-rabotteuse-aspirateur-electrique.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/c-s-p/scie-a-sol.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/scie-a-sol.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/c-s-p/scie-sur-table.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/scie-sur-table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/c-s-p/tronconneuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/c-s-p/tronconneuse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/carottage-sciage-poncage.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/carottage-sciage-poncage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/compactage.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/compactage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/compactage/images/pied-de-mouton.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/compactage/images/pied-de-mouton.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/compactage/images/pilonneuse.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/compactage/images/pilonneuse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/compactage/images/plaque-vibrante.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/compactage/images/plaque-vibrante.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/compactage/images/rouleau-vibrant.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/compactage/images/rouleau-vibrant.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/compactage/pied-de-mouton.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/compactage/pied-de-mouton.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/compactage/pilonneuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/compactage/pilonneuse.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/compactage/plaque-vibrante.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/compactage/plaque-vibrante.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/compactage/rouleau-vibrant.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/compactage/rouleau-vibrant.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/demolition.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/demolition.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/demolition/images/marteau-piqueur.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/demolition/images/marteau-piqueur.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/demolition/fiches/marteau-piqueur-milwaukee-k2500h-64J.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/location/demolition/fiches/marteau-piqueur-milwaukee-k2500h-64j.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/demolition/marteau-piqueur.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/demolition/marteau-piqueur.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/electroportatif.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/electroportatif/boulonneuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/boulonneuse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/divers/betonniere.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/divers/betonniere.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location/divers/fiches/betonniere-imer-sr250.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/location/divers/fiches/betonniere-imer-350l-expert-sr250.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/electroportatif/chargeur-batterie.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/chargeur-batterie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/electroportatif/images/boulonneuse.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/images/boulonneuse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/electroportatif/images/chargeur.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/images/chargeur.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/electroportatif/images/meuleuse.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/images/meuleuse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/electroportatif/images/multitool.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/images/multitool.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/electroportatif/images/perceuse-a-percussion.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/images/perceuse-a-percussion.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/electroportatif/images/perforateur.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/images/perforateur.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/electroportatif/images/scie-circulaire.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/images/scie-circulaire.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/electroportatif/images/scie-sabre.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/images/scie-sabre.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/electroportatif/images/scie-sauteuse.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/images/scie-sauteuse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/electroportatif/images/visseuse-a-chocs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/images/visseuse-a-chocs.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/electroportatif/meuleuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/meuleuse.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/electroportatif/multitool.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/multitool.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/electroportatif/perceuse-a-percussion.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/perceuse-a-percussion.html" afterDir="false" />
@@ -59,40 +28,14 @@
       <change beforePath="$PROJECT_DIR$/location/electroportatif/scie-sabre.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/scie-sabre.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/electroportatif/scie-sauteuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/scie-sauteuse.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/electroportatif/visseuse-a-chocs.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/electroportatif/visseuse-a-chocs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/espace-vert.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/espace-vert.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/espace-vert/broyeur-thermique.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/espace-vert/broyeur-thermique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/espace-vert/images/broyeur-thermique.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/espace-vert/images/broyeur-thermique.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/espace-vert/images/souffleur.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/espace-vert/images/souffleur.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/espace-vert/images/taille-haie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/espace-vert/images/taille-haie.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/espace-vert/souffleur.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/espace-vert/souffleur.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/espace-vert/taille-haie.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/espace-vert/taille-haie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/feux-tricolores.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/feux-tricolores.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/feux-tricolores/feux-tts.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/feux-tricolores/feux-tts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/feux-tricolores/images/feux-tts.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/feux-tricolores/images/feux-tts.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/groupe-electrogene.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/groupe-electrogene.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/groupe-electrogene/groupe-pramac.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/groupe-electrogene/groupe-pramac.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/groupe-electrogene/groupe-worms.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/groupe-electrogene/groupe-worms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/groupe-electrogene/images/groupe-pramac.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/groupe-electrogene/images/groupe-pramac.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/groupe-electrogene/images/groupe-worms.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/groupe-electrogene/images/groupe-worms.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/pompage.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/pompage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/pompage/images/pompe-a-cable.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/pompage/images/pompe-a-cable.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/pompage/images/pompe-electrique.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/pompage/images/pompe-electrique.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/pompage/pompe-a-cable.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/pompage/pompe-a-cable.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location/pompage/pompe-electrique.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/pompage/pompe-electrique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/stockage-eau.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/stockage-eau.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/stockage-eau/cuve.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/stockage-eau/cuve.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/stockage-eau/images/cuve.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/stockage-eau/images/cuve.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/stockage-eau/images/remorque-citerne.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/stockage-eau/images/remorque-citerne.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/stockage-eau/remorque-citerne.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/stockage-eau/remorque-citerne.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/vibration.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/vibration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/vibration/aiguille-vibrante.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/vibration/aiguille-vibrante.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/vibration/convertisseur.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/vibration/convertisseur.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/vibration/images/aiguille-vibrante.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/vibration/images/aiguille-vibrante.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/vibration/images/convertisseur.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/vibration/images/convertisseur.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/vibration/images/regle-vibrante.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/vibration/images/regle-vibrante.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/vibration/images/truelle-mecanique.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/location/vibration/images/truelle-mecanique.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/vibration/regle-vibrante.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/vibration/regle-vibrante.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/vibration/truelle-mecanique.html" beforeDir="false" afterPath="$PROJECT_DIR$/location/vibration/truelle-mecanique.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,8 +73,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/location/espace-vert/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/location/pompage/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -140,13 +84,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/location/espace-vert/images" />
+      <recent name="$PROJECT_DIR$/location/pompage/images" />
+      <recent name="$PROJECT_DIR$/location/groupe-electrogene/images" />
+      <recent name="$PROJECT_DIR$/location/feux-tricolores" />
       <recent name="$PROJECT_DIR$/location/espace-vert" />
-      <recent name="$PROJECT_DIR$/location/divers/images" />
-      <recent name="$PROJECT_DIR$/location/air-comprime/images" />
-      <recent name="$PROJECT_DIR$/location/electroportatif/fiches" />
+      <recent name="$PROJECT_DIR$/location/electroportatif/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/location/feux-tricolores/images" />
+      <recent name="$PROJECT_DIR$/location/espace-vert/images" />
       <recent name="$PROJECT_DIR$/location/espace-vert/fiches" />
     </key>
   </component>
@@ -161,7 +107,9 @@
       <workItem from="1597581586051" duration="3026000" />
       <workItem from="1597648642753" duration="20000" />
       <workItem from="1612369620976" duration="7451000" />
-      <workItem from="1612891336726" duration="13337000" />
+      <workItem from="1612891336726" duration="14576000" />
+      <workItem from="1612944692983" duration="9000" />
+      <workItem from="1612987474862" duration="3293000" />
     </task>
     <servers />
   </component>
