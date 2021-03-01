@@ -314,6 +314,26 @@
 		}
 	};
 
+	var categoryDropdown = function () {
+		if ($('.grower').length > 0) {
+			$('.grower').click(function () {
+				let parentNode = $(this).parent();
+
+				if (parentNode.hasClass('closed')) {
+					parentNode.removeClass('closed');
+					parentNode.addClass('opened');
+					$(this.children).removeClass('icon-triangle-down');
+					$(this.children).addClass('icon-triangle-up');
+				} else {
+					parentNode.removeClass('opened');
+					parentNode.addClass('closed');
+					$(this.children).removeClass('icon-triangle-up');
+					$(this.children).addClass('icon-triangle-down');
+				}
+			});
+		}
+	};
+
 	
 	$(function(){
 		mobileMenuOutsideClick();
@@ -326,6 +346,7 @@
 		goToTop();
 		loaderPage();
 		counterWayPoint();
+		categoryDropdown();
 	});
 
 

@@ -419,8 +419,14 @@ h1, h2, h3, h4, h5, h6, figure {
 #categories li a {
   color: rgba(0, 55, 138, 0.5);
 }
+#categories li .grower {
+  float: right;
+}
+#categories li.closed .dropdown {
+  display: none;
+}
 #categories li.active,
-#categories li.active a {
+#categories li.active > a {
   color: rgba(0, 55, 138, 1);
 }
 #products p {
