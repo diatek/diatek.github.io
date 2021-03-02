@@ -415,6 +415,9 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-bottom: 5px;
   border-bottom: 3px solid #000;
 }
+#categories h4 {
+  margin-bottom: 10px;
+}
 #categories li,
 #categories li a {
   color: rgba(0, 55, 138, 0.5);
