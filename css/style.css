@@ -512,14 +512,32 @@ h1, h2, h3, h4, h5, h6, figure {
   font-weight: normal;
   display: block;
 }
-
 .gtco-product .role {
   color: #bfbfbf;
   margin-bottom: 10px;
   font-weight: normal;
   display: block;
 }
-
+.partner-images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.partner-image {
+  max-width: 250px;
+  max-height: 150px;
+  margin: 10px 50px;
+}
+.partner-image img {
+  max-width: 250px;
+  max-height: 150px;
+}
+@media screen and (max-width: 768px) {
+  .partner-image {
+    margin: 30px 50px;
+  }
+}
 .gtco-social-icons {
   margin: 0;
   padding: 0;

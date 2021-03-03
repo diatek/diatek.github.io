@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b0936d4f-666f-47d4-a1eb-cce44433b2f8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +60,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vente/controle-batiment/images" />
       <recent name="$PROJECT_DIR$/vente/transport" />
       <recent name="$PROJECT_DIR$/vente/second-oeuvre" />
       <recent name="$PROJECT_DIR$/vente/outillage" />
       <recent name="$PROJECT_DIR$/vente/nettoyage" />
-      <recent name="$PROJECT_DIR$/vente/mesure" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/personnes" />
@@ -95,7 +97,8 @@
       <workItem from="1614620474535" duration="14267000" />
       <workItem from="1614667562257" duration="783000" />
       <workItem from="1614697429591" duration="10047000" />
-      <workItem from="1614780218528" duration="833000" />
+      <workItem from="1614780218528" duration="1843000" />
+      <workItem from="1614792426489" duration="3367000" />
     </task>
     <servers />
   </component>
