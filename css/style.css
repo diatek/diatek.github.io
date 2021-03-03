@@ -461,7 +461,8 @@ h1, h2, h3, h4, h5, h6, figure {
   border-radius: 50%;
 }
 .gtco-product img {
-  max-width: 150px;
+  max-width: 250px;
+  max-height: 100px;
   margin-bottom: 20px;
 }
 .product {
