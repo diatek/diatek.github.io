@@ -2,7 +2,124 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0936d4f-666f-47d4-a1eb-cce44433b2f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/air-comprime.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/air-comprime.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/air-comprime/accessoires-pneumatiques.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/air-comprime/accessoires-pneumatiques.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/air-comprime/compresseur.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/air-comprime/compresseur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/air-comprime/sableuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/air-comprime/sableuse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/betonniere.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/betonniere.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/betonniere/betonniere.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/betonniere/betonniere.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/c-s-p/carotteuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/c-s-p/carotteuse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/c-s-p/decoupeuse-electrique.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/c-s-p/decoupeuse-electrique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/c-s-p/decoupeuse-thermique.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/c-s-p/decoupeuse-thermique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/c-s-p/ponceuse-rabotteuse-aspirateur-electrique.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/c-s-p/ponceuse-rabotteuse-aspirateur-electrique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/c-s-p/scie-a-sol.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/c-s-p/scie-a-sol.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/c-s-p/scie-sur-table.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/c-s-p/scie-sur-table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/c-s-p/tronconneuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/c-s-p/tronconneuse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/carottage-sciage-poncage.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/carottage-sciage-poncage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/compactage.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/compactage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/compactage/pied-de-mouton.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/compactage/pied-de-mouton.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/compactage/pilonneuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/compactage/pilonneuse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/compactage/plaque-vibrante.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/compactage/plaque-vibrante.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/compactage/rouleau-vibrant.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/compactage/rouleau-vibrant.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/controle-batiment.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/controle-batiment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/controle-batiment/topographie.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/controle-batiment/topographie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/couronnes-diamants.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/couronnes-diamants.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/couronnes-diamants/gamme-assainissement.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/couronnes-diamants/gamme-assainissement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/couronnes-diamants/gamme-batiment.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/couronnes-diamants/gamme-batiment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/demolition.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/demolition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/demolition/marteau-piqueur.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/demolition/marteau-piqueur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/disques-diamants.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/disques-diamants.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/disques-diamants/asphalte.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/disques-diamants/asphalte.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/disques-diamants/beton.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/disques-diamants/beton.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/disques-diamants/ceramique.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/disques-diamants/ceramique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/disques-diamants/disque-abrasif.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/disques-diamants/disque-abrasif.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/disques-diamants/disque-poncage-beton.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/disques-diamants/disque-poncage-beton.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/disques-diamants/fonte.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/disques-diamants/fonte.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/disques-diamants/granit.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/disques-diamants/granit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/disques-diamants/mixte.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/disques-diamants/mixte.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/disques-diamants/multi-materiaux.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/disques-diamants/multi-materiaux.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/divers.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/divers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/divers/bennes.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/divers/bennes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/divers/manutention-stockage.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/divers/manutention-stockage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/electroportatif.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/electroportatif.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/electroportatif/boulonneuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/electroportatif/boulonneuse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/electroportatif/chargeur-batterie.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/electroportatif/chargeur-batterie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/electroportatif/meuleuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/electroportatif/meuleuse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/electroportatif/multitool.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/electroportatif/multitool.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/electroportatif/perceuse-a-percussion.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/electroportatif/perceuse-a-percussion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/electroportatif/perforateur-burineur.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/electroportatif/perforateur-burineur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/electroportatif/scie-circulaire.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/electroportatif/scie-circulaire.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/electroportatif/scie-sabre.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/electroportatif/scie-sabre.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/electroportatif/scie-sauteuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/electroportatif/scie-sauteuse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/electroportatif/visseuse-a-chocs.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/electroportatif/visseuse-a-chocs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/espace-vert.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/espace-vert.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/espace-vert/broyeur-thermique.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/espace-vert/broyeur-thermique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/espace-vert/souffleur.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/espace-vert/souffleur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/espace-vert/taille-haie.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/espace-vert/taille-haie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/espace-vert/tronconneuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/espace-vert/tronconneuse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/feux-tricolores.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/feux-tricolores.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/feux-tricolores/feux-tts.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/feux-tricolores/feux-tts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/gros-oeuvre.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/gros-oeuvre.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/gros-oeuvre/b-c-l.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/gros-oeuvre/b-c-l.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/gros-oeuvre/carburant.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/gros-oeuvre/carburant.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/gros-oeuvre/corderie.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/gros-oeuvre/corderie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/gros-oeuvre/enrouleurs.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/gros-oeuvre/enrouleurs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/gros-oeuvre/equipement-protection.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/gros-oeuvre/equipement-protection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/gros-oeuvre/jerrican.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/gros-oeuvre/jerrican.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/gros-oeuvre/martellerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/gros-oeuvre/martellerie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/gros-oeuvre/nettoyage.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/gros-oeuvre/nettoyage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/gros-oeuvre/pelle.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/gros-oeuvre/pelle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/gros-oeuvre/pioche-rateau.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/gros-oeuvre/pioche-rateau.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/gros-oeuvre/pulverisateur.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/gros-oeuvre/pulverisateur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/gros-oeuvre/seau-auge.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/gros-oeuvre/seau-auge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/gros-oeuvre/signalisation.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/gros-oeuvre/signalisation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/groupe-electrogene.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/groupe-electrogene.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/groupe-electrogene/groupe-pramac.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/groupe-electrogene/groupe-pramac.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/groupe-electrogene/groupe-worms.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/groupe-electrogene/groupe-worms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/marquage.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/marquage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/marquage/boite-craie.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/marquage/boite-craie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/marquage/boite-feutre.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/marquage/boite-feutre.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/marquage/bombe-tracage.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/marquage/bombe-tracage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/marquage/canne-tracage.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/marquage/canne-tracage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/marquage/marqueur-industriel.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/marquage/marqueur-industriel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/mesure.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/mesure.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/mesure/mesure-courte.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/mesure/mesure-courte.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/mesure/mesure-longue.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/mesure/mesure-longue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/nettoyage.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/nettoyage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/nettoyage/nhp.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/nettoyage/nhp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/outillage.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/outillage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/outillage/cle-a-molette.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/outillage/cle-a-molette.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/outillage/cutteurs.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/outillage/cutteurs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/outillage/gamme-foret.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/outillage/gamme-foret.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/outillage/pince.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/outillage/pince.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/outillage/scie-trepans.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/outillage/scie-trepans.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/outillage/tenaille.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/outillage/tenaille.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/pompage.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/pompage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/pompage/pompe-a-cable.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/pompage/pompe-a-cable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/pompage/pompe-electrique.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/pompage/pompe-electrique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/second-oeuvre.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/second-oeuvre.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/second-oeuvre/brouette.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/second-oeuvre/brouette.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/second-oeuvre/entretien-hygiene.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/second-oeuvre/entretien-hygiene.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/second-oeuvre/grattoir-raclette.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/second-oeuvre/grattoir-raclette.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/second-oeuvre/niveaux.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/second-oeuvre/niveaux.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/second-oeuvre/regle-alu.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/second-oeuvre/regle-alu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/second-oeuvre/ruban-adhesif.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/second-oeuvre/ruban-adhesif.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/second-oeuvre/taloches.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/second-oeuvre/taloches.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/second-oeuvre/truelles.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/second-oeuvre/truelles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/stockage-eau.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/stockage-eau.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/stockage-eau/cuve.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/stockage-eau/cuve.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/stockage-eau/remorque-citerne.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/stockage-eau/remorque-citerne.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/transport.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/transport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/transport/brouette-electrique-basculante.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/transport/brouette-electrique-basculante.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/transport/brouette-electrique.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/transport/brouette-electrique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/transport/mini-transporteur.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/transport/mini-transporteur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/vibration.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/vibration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/vibration/aiguille-vibrante.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/vibration/aiguille-vibrante.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/vibration/convertisseur.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/vibration/convertisseur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/vibration/regle-vibrante.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/vibration/regle-vibrante.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vente/vibration/truelle-mecanique.html" beforeDir="false" afterPath="$PROJECT_DIR$/vente/vibration/truelle-mecanique.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +213,8 @@
       <workItem from="1614667562257" duration="783000" />
       <workItem from="1614697429591" duration="10047000" />
       <workItem from="1614780218528" duration="1843000" />
-      <workItem from="1614792426489" duration="3754000" />
+      <workItem from="1614792426489" duration="4139000" />
+      <workItem from="1615567872101" duration="3296000" />
     </task>
     <servers />
   </component>
